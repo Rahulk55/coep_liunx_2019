@@ -1,0 +1,6 @@
+1. Modify http web server (tiny.c) to use fork to respond to web requests.
+2. Modify http web server (tiny.c) to use pthreads to respond to web requests.
+3. Compare the performance of the web server of all three methods (original tiny.c, tiny.c with fork and tiny.c with pthreads) using http load tester.  You can use this load tester, https://github.com/tsenart/vegeta or any other tester available on the net.
+4. Write a program to demonstrate how mutexes avoids data corruption.
+5. Write a program to display list of routers to a destination server or IP address. 
+    Hint: This will be like your own traceroute (tracert command on Windows)program. You will have to use raw socket to send ICMP packets. 
