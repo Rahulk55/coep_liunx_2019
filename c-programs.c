@@ -1,5 +1,5 @@
 
-Few programming assignments to the class. 
+Few programming assignments to the class.....
 
 
 1. Connet PC to two networks, one via cable and second via wifi. After that, print adapter name, IP address, subnet mask and default gateway for each network interface. Output can be printed in folliowing format.
