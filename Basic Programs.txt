@@ -1,0 +1,8 @@
+1. You should have linux VM installed on your laptop. 
+2. Compile and run simple hello world C program.
+3. Run UDP Echo Server and UDP Echo Clients on your PC
+4. Run TCP Echo Server and TCP Echo Client on your PC
+5. Run tiny.c web server on your PC without any modification. You can take tiny.c file from github repository (https://github.com/sudhirgp574/coep_liunx_2019), 
+6. Sample program to show how fork() works.
+7. Sample program to show how threads are created using pthread_create function.
+8. Sample program to show mutex are created using pthread_mutex_lock function.
